@@ -1,0 +1,54 @@
+Cap.0 - Plot Inicial
+
+Sessão 1
+
+Entrada
+Aventureiros, trazidos pelo “Festival das Estrelas”
+Convencidos por um sujeito com sotaque russo, baixo e gordo, chamado Azmodeu, a ficar na estalagem Potro Dançante.
+Se derem o nome do sujeito no balcão, pagam muito mais dinheiro que necessário.
+Clima tenso, sorrisos forçados
+Conhecem pessoas na estalagem, conversam um pouco sobre o clima do local
+
+Setup
+Festival das estrelas, com parada e tal, com comemoração do aniversário de 13 anos de Temérius II.
+Militantes do Bloco Preto põem bandanas no meio da multidão, partem pra cima dos guardas.
+Pjs podem intervir, e lutar contra ou a favor dos militantes.
+Capitão da guarda Luka coordena a retirada
+Temérius II morre
+Todo mundo corre pra cima e pra baixo, gente é espancada, detida, civil morre
+
+Escolha
+Pixações do Bloco Preto Vs Cartazes de recompensa
+Se perguntarem muito sobre o Bloco Preto, são convidados a uma reunião.
+Se perguntarem muito sobre a recompensa, são dirigidos a conversar com Luka.
+
+Missões
+BP
+Infiltrar e matar Luka
+Ir até as cidades rurais, buscar alguns VIPs
+
+Governo
+Ir até as cidades rurais, apreender os VIPs
+Contra-inteligência
+3 reuniões na cidade, tentar descobrir o nome do:
+Recrutador: Tomen
+Coordenador: Jorjen
+Infiltrado na delegacia: Houston
+
+VIPs
+Jonas, Arquiteto
+Magro, 1,80m, óculos
+Cidade de Floresta Cinzenta
+Tem os planos de construção das masmorras
+Não quer voltar a cidade
+Deve dinheiro na cidade de Basilius
+Kurt, Médico
+1,90m, 210kg, roupa de açougueiro
+Ex-Combatente, médico de guerrilha
+20 anos de experiência de medicina de combate
+Subversivo, ignorante, cheio de vontade de lutar
+Tem diversos amigos na cidade e na guardada
+Aztrox, contrabandista
+1,60m, 60kg, halfling barbado
+Contrabandista, ladrão
+Melhor amido de Azmodeu

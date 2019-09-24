@@ -1,0 +1,86 @@
+Hagiel indica a nova missão.
+
+Relatos de criaturas estranhas em diversos setores da cidade. A igreja de Anúbis entrou em contato com diversas outras igrejas, e conseguiu reunir algumas testemunhas em setores da cidade.
+
+Setores: Yamu "Maat", Raqote "Set", Khasut "Ptah"
+
+Pessoas dizem que (1d6)
+ 1 Criaturas humanóides
+ 2 Atacam a noite
+ 3 Roubam coisas -> Comida, peles
+ 4 Quebram coisas -> Potes, vasos de plantas, porta da venda
+ 5 Mataram um cavalo -> Mordida de animal
+ 6 Culpa dos: (1d4)
+  1 Shamair
+  2 Mogadorin
+  3 Volumieres
+  4 Povo do deserto (Bhukas)
+
+[Aqueduto]
+
+Abaixo de Raqote, existe um conjunto de túneis, no qual se percebe uma alcova.
+Teste de CD 15 de Percepção (audição) para perceber som vindo dela.
+
+Sala parece com uma prisão abandonada, com jaulas de metal, bolas de pelo e restos de corpos de animais, ossos e etc.
+Em cada jaula há uma cama improvisada, de feno e peles.
+Sala tem 2 entradas, uma por onde os jogadores entram, e outra que volta para os túneis.
+Teste de CD 13 de Percepção (audição) para perceber som vindo da outra entrada.
+
+Criaturas humanóides entram na sala.
+
+Chacal Humanóide (ND 1/2)
+  CA 13
+  PV 22
+  Stats:
+    Deslocamento 9m
+    FOR		14 (+2)
+    DES		12 (+1)
+    CON	  11 (+0)
+    INT		6  (-2)
+    SAB		10 (+0)
+    CAR		7  (-2)
+  Frenesi.
+    Quando o Chacal Humanóide reduz uma criatura a 0 pontos de vida com um ataque corpo-a-corpo no seu turno, ele pode realizar uma ação bônus para se mover até metade do seu deslocamento e realizar um ataque de mordida.
+  Mordida. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, uma criatura.
+    Acerto: 4 (1d4 + 2) de dano perfurante
+  Lança. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, um alvo.
+    Acerto: 5 (1d6 + 2) de dano perfurante, ou 6 (1d8 + 2) de dano perfurante se usada com as duas mãos.
+
+Crocodilo Humanóide (ND 4)
+  CA 15
+  PV 78
+  Stats:
+    Deslocamento 9m
+    FOR		17 (+3)
+    DES		12 (+1)
+    CON	  15 (+2)
+    INT	  6  (-2)
+    SAB		11 (+0)
+    CAR		7  (-2)
+  Perícias
+    Furtividade +5, Percepção +4, Sobrevivência +4
+  Prender a Respiração.
+    O Crocodilo Humanóide pode prender a respiração por 15 minutos
+  Ataques Múltiplos.
+    O Crocodilo Humanóide realiza dois ataques: um com sua mordida e um com suas garras, ou dois ataques com as garras.
+  Mordida. Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, uma criatura.
+    Acerto: 6 (1d8 + 3) de dano perfurante
+  Garras. Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo.
+    Acerto: 5 (1d6 + 3) de dano cortante.
+
+Teste de Percepção CD 12 a cada golpe para perceber o seo durante o combate.
+Criaturas estão marcadas com um selo único, que queima sozinho quando a criatura morre.
+
+[Recompensa]
+
+100 PO
++2 no ranking dos caçadores de Anúbis
+
+
+[Notas]
+
+Khaba, dono do cavalo morto, mora em Raqote
+
+Ptah tem festivais toda semana
+
+Bardella morreu

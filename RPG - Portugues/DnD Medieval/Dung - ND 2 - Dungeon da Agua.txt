@@ -1,0 +1,140 @@
+[Dungeon da Água]
+
+"Trilha na Ilha"
+	'flavor' Mato de clima tropical, com palmeiras, bananeiras, plantas coloridas e mato alto
+		Pontos de referência, paredão de pedra a direita, vila a esquerda
+
+	'encontro' Acampamento abandonado
+		Informação: Tendas ainda montadas, fogueira apagada a tempos, alguma comida espalhada.
+		Tesouro:
+		* Garrafa vazia 2
+		* Garrafa de rum 2
+		* Mapa feito a mão da ilha (CD 16 de INT, para achar o caminho)
+
+
+ 	'puzzle' Achar o caminho na mata
+		Puzzle: 3 testes para achar o caminho, no chute ou no mapa
+			Testes:
+				1) Esquerda, Direita*
+					A trilha bifurca sob uma pedra grande e redonda, passando por trás dela, a esquerda, e por baixo dela, a direita.
+					*	Errou: A trilha segue por um tempo, sai de volta na praia, a alguns metros de
+
+				2) Subindo*, Direita
+					A trilha desce suavemente por um caminho liso, e para em frente a um paredão de pedra. Uma trilha menor continua a direita, descendo. O paredão parece não ser muito difícil de escalar.
+					* (CD12 de percepção) O paredão tem apoios não naturais, provavelmente feitos pelos nativos. CD 11 para subir.
+					* Errou: A trilha acaba em um riacho. Se seguir ele, dá de volta na vila. Se voltar, se perde, e volta pra Pedra Grande.
+
+				3) Pulando*, Dando a volta*, Descendo
+					Trilha acaba em um vão de uns 4,5 metros, CD 14 pra pular, dano de 1d6+4 de queda.
+					* Se der a volta pela direita, tem uma ponte inprovisada, escondida atras de uma pedra. Pela esquerda, o vão segue pra caramba, fica maior, e chega vira um paredão que dá num lago.
+					* Se descer a trilha, segue a beira de um rio, que eventuamente dá num lago, ou no topo de uma colina.
+
+"Entrada da Montanha"
+	'flavor' *A Agulha* é composta por uma série de montanhas finas como estalactites, que compoem uma montanha maior cheia de reentranceas, com uma boca de caverna a frente
+
+"Into the mountain"
+	'flavor' O camiho vai ficando sinuoso, as vezes afinando, as vezes alargando, com estalactites e estalagmites
+		Puzzle: Lago invertido
+			Lago fundo, agua clara, tocha no fundo do lado, acesa.
+			Jogadores tem que pular.
+
+"Dentro do Lago"	(DEX-1) (fire DMG -1) (electric DMG +1)
+	'flavor' Os heróis conseguem respirar normalmente, e mover-se quase livremente. Movimentos mais rápidos sofrem um pouco, testes de DEX de movimento recebem -1.
+		Fogo funciona normalmente embaixo dágua, porém são um pouco mais fracos. -1 de dano em magias de fogo. Em contra partida, dano de eletricidade +1
+
+"Tuneis"
+	'trap' Após andarem uma certa distância, se deparam com uma bifurcação. CD18 para perceber a armadilha
+		CD 17 vs DEX _ou_ CD 14 vs FOR para não afundar.
+		* Cada nível afundado = -2 DEX, -1 AC, Desvantagem em ataque, movimento pela metade
+		* 4 níveis, afundado até os ombros = imobilizado
+		* 5 níveis, afundado completamente = CD 15 FOR para não perder o ar. Perdendo o ar, 1+mod CON rodadas e cai a 0 de vida.
+
+	'encontro' Tubarão Caçador *1* , Tubarão dos Arrecifes *2* - ND 3
+
+	Tubarão Caçador - ND 2
+		CA 12 (armadura natural)
+		PV 45 (6d10 + 12)
+		Stats:
+			Deslocamento 12 m
+			FOR		18 (+3)
+			DES		13 (+1)
+			CON		15 (+2)
+			INT		1 (–5)
+			SAB		10 (+0)
+			CAR		4 (–3)
+		Frenesi de Sangue. O tubarão tem vantagem nas jogadas de ataque corpo-a-corpo contra qualquer criatura que não esteja com todos os seus pontos de vida.
+		Mordida. Ataque Corpo-a-Corpo com Arma: +6 para atingir, alcance 1,5 m, um alvo.
+			Acerto: 13 (2d8 + 4) de dano perfurante.
+
+		Tubarão dos Arrecifes - ND 1/2
+			CA 12 (armadura natural)
+			PV 22 (4d8 + 4)
+			Stats:
+				Deslocamento 0 m, natação 12 m
+				FOR		14 (+2)
+				DES		13 (+1)
+				CON		13 (+1)
+				INT		1 (–5)
+				SAB		10 (+0)
+				CAR		4 (–3)
+			Táticas de Matilha. O tubarão tem vantagem nas jogadas de ataque contra uma criatura se, pelo menos, um dos aliados do tubarão estiver a 1,5 metro da criaturas e não estiver incapacitado.
+			Mordida. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, um alvo.
+				Acerto: 6 (1d8 + 2) de dano perfurante
+
+"Perto do fim"
+	'flavor' Uma série de caminhos convergem para o seu, como raízes. O caminho vai ficando mais largo, até uns 4m de largura.
+
+	'encontro' Piratas afundados *4* , Cardume de piranhas *2* - ND 3
+		Pirata Afundado Simples - ND 1/2
+			CA 13 (armadura natural)
+				Resistência a dano perfurante
+			PV 24 (5d8+5)
+			Stats:
+				Deslocamento 9 m
+				FOR		15 (+3)
+				DES		12 (+1)
+				CON		13 (+2)
+				INT		9 (-1)
+				SAB		11 (0)
+				CAR		10 (0)
+			A queima-roupa: Não tem desvantagem em ataques ranged com menos de 1,5m de distância.
+			Sabichão: Quando alguma criatura até 10 m de distância errar um ataque, o pirata pode falar uma frase que desmoralize o oponente, reduzindo em -3 (1d6) o próximo teste do alvo.
+			Sabre. Ataque corpo-a-corpo: +4 para atingir, alcance 1,5 m, um alvo.
+				Acerto: 6 (1d8+2) dano cortante, ou 7 (1d10+2) se usado com as duas mãos.
+
+		Cardume de Piranhas - ND 1/2
+			CA 13 (armadura natural)
+			PV 20 (4d4+10)
+			Stats:
+				Deslocamento 12 m
+				FOR		2 (-4)
+				DES		16 (+3)
+				CON		9 (-1)
+				INT		1 (-5)
+				SAB		7 (-2)
+				CAR		2 (-4)
+			Frenesi de Sangue. O cardume de piranhas tem vantagem nas jogadas de ataque corpo-a-corpo contra qualquer criatura que não esteja com todos os seus pontos de vida.
+			Mordidas. Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo.
+				Acerto: 20 (3d8) de dano perfurante, limite = PV atual do Cardume
+					-1d8 de dano para cada 8 PV faltante no Cardume
+
+"Perto do fim"
+	'flavor' 
+
+
+
+
+
+#  Boss
+Ostras gigantes!
+
+
+Aliados Prováveis
+
+
+
+Inimigos possíveis
+SAHUAGIN
+
+
+Inimigos prováveis

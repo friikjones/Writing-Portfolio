@@ -1,0 +1,48 @@
+[Província de Basilius]
+
+* Cidade de Federus
+  Rica, comerciante, capital
+    Perto de 3mil habitantes (média)
+    Casa da corte e palácio
+      Castelo levemente fortificado, baixo
+      Entrada da frente com porta levantada
+      Entrada nas catacumbas, pela saída de água, guardada com grade e complexa de navegar (lenda do Basilisco)
+      Bunker de pedra dentro da colina, acessável apenas por dentro do castelo
+
+* Corte
+  Regente Temérius, filho bastardo do Rei Dulmo
+    Na casa dos 70, deve ter pouco tempo de vida
+    Rege com mão de ferro, impostos altíssimos, explora o povo
+    Casado com Princesa do reino de Lago Claro, mantém as relações estáveis Risco de Guerra
+    Um único herdeiro legítimo, Temérius II, assassinado recentemente
+  Segundo em comando, General Alcunha
+    Capitão da Guarda, Capitão Luka, não se envolve em política, tenta ser honesto.
+    Tem boa parte da corte no bolso
+    Milícia pessoal bem treinada
+
+* Facção revoltosa, Bloco preto
+  Quer retirar a corte a força (revolução francesa style)
+    Pendem para a violência
+    Grande parte quer a execução sumária de todos os membros da corte, mulheres e crianças
+    Não se importam com a possibilidade de guerra
+    Fins justificam os meios
+    Sem planos a longo prazo
+  Grupo interno ultra-nacionalista
+    Leve ódio a estrangeiros
+
+* Cidade de Floresta Cinzenta, madeireira
+  Próximo a Floresta Cinzenta
+  Operações de plantio de derrubada de árvores, em torno da porção Sul da floresta
+    Pequena, 500 habitantes
+    Operação de desmatamento nova, perto da Casa do Eldor, leste da floresta
+  Taverna "A Farpa"
+    Dono: Jonathan, anão
+    Atendente: Joannah, anã, filha do dono
+  Lojas
+    Uma Móveis, sem nome
+    Uma de fabricação e conserto de carroça, sem nome
+
+* Campo Longo, plantações e criação de animais
+
+* Porto Santo, na costa, comerciante e pesqueira
+  Casa da revolução

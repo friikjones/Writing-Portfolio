@@ -1,0 +1,37 @@
+Farouk al-Mubin propoe troca pela pedra.
+Ele quer um Laço. Laços são o que mantém a sociedade unida, e a real medida de poder.
+
+1 *Dinheiro*
+2 *Respeito*
+3 *Poder*
+4 *Sangue*
+5 *Camaradagem*
+
+[1 - Assalto a Banco]
+1o Banco Gnômico de Lória
+  Banco secular famoso, construído dentro das ruínas das minas de Lória.
+  As terras de Lória são altamente prósperas e civilizadas, e sobrevivem através de serviços financeiros e bancos.
+  O símbolo de riqueza das terras de Lória é o Coração Verdejante, uma esmeralda em formato e tamanho de um coração humanóide médio.
+
+[2 - Totem de adoração]
+Aldeia de Ölgii
+  Aldeia Githzerai, com costumes shamânicos inspirados no hinduísmo, situada na encosta de uma montanha ao norte.
+  Ao centro da aldeia se encontra um totem de 6m de altura, cultuado pelos locais como protetor da montanha.
+  O totem é secretamente um Gigante de Gelo adormecido.
+
+[3 - Golpe de Estado]
+Baronato de Nakar
+  Baronato regido pelo barão Tosta e o concelho dos Anciôes.
+  O braço direito do barão é seu Visir Albernas, que tem fome de poder. O Visir fará qualquer acordo obscuro se resultar na ajuda do seu plano de dar um golpe de estado.
+
+[4 - Um Primogênito]
+Castelo do Dragão de Cobre *ESCOLHIDA*
+  Castelo abandonado a séculos, agora reformado e usado como covil para um casal de Dragões de Cobre adultos.
+  A cidade préviamente abandonada ao redor do castelo vem se recompondo gradualmente, e é atualmente populada por uma miríade de seres diversos, desde raças comuns, até exóticas, incluindo toda sorte de animais falantes.
+  A cidade é renomeada pelos habitantes como Foon, e abriga a taverna do Minotauro Escarlate.
+
+[5 - Camaradagem]
+Laços de Camaradagem
+  Um integrante do grupo ou de outro grupo deve se oferecer como "sacrifício", sendo ele necessáriamente voluntário.
+  Esse integrante perde todas as memórias da aventura, todos os laços de amizade e camaradagem, e não é capaz de forjar outros laços com o mesmo grupo de pessoas.
+  Efetivamente, o jogador perde o personagem.

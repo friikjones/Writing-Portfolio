@@ -1,0 +1,184 @@
+<<<<<<< HEAD
+[Cidade de Foon]
+
+"A cidade"
+
+  'flavor' Uma cidade destruida e abandonada a séculos, sendo gradualmente repovoada.
+  Castelo de tamanho médio ao fundo, próximo a parede do fundo.
+  As construções antigas estão em ruínas chamuscadas ou apodrecidas.
+  As construções novas parecem são simples, mas parecem cheias de vida, meio tortas e desiguais.
+
+"A taverna do Minotauro Escarlate"
+
+  'flavor' Taverna no meio da cidade, como um ponto focal da renovação da cidade. Dois andares, feita de madeira, com diversas janelas.
+  Ao centro da taverna, uma mesa com três criaturas chama atenção.
+  Arnie, humano vindo da Terra através de uma fenda dimensional, gravando um podcast e mandando pela Wi-fi que ainda passa pelo portal.
+  Shunt, rei dos texugos, um texugo falante que diz ser um metamorfo.
+  Yusador,
+    Mago do décimo segundo reino de Athésius, Mestre da Luz e Sombra, Manipulador de Agrados Mágicos, Devorador de Caos
+    Os elfos me conhecem como Fien Yelik
+    Os anões me conhecem como Zoonem Barril-Fundo
+    Conhecido no extremo norte como Gasmoenius Estrela-de-Maio
+
+  'flavor' Os três estão começando o podcast, o *Olá da Taverna Mágica*, e convidam os jogadores a conversar.
+
+    Em meio ao papo non-sense, eles comentam do Dragão de Cobre que protege a cidade, chamado Muiryn.
+    Muiryn mora no castelo em ruínas, que ele vem reconstruíndo por sí mesmo, ou pagando os moradores da cidade para ajudá-lo.
+    A mulher de Muiryn, outra dragão de cobre chamada Maldra, pôs um ovo a alguns meses, e Muiryn está ansioso para ver o bebê, que deve nascer 'a qualquer momento agora'.
+    Maldra viajou para outra cidade, para contar a notícia para os pais, e não deve voltar até o final do mês.
+
+    Existem alguns jeitos de entrar no castelo. Pelas catacumbas abaixo da taverna, pela porta da frente (convidado), ou por cima (voando).
+
+"Catacumbas abaixo da Taverna"
+
+  'flavor' As catacumbas são habitadas por alguns monstros, que trabalham lá. A catacumba é separada em andares, um mais difícil que o último. Nem todos os monstros são maus, alguns só trabalham lá.
+
+
+"Pela porta da frente"
+
+  'flavor' Muiryn sedia uma audiência ao público, toda segunda sexta-feira do mês, na qual você pode pedir, comentar ou critical oque quiser com ele. Felizmente, estamos na segunda quinta-feira do mês, ou seja, a próxima audiência é amanhã.
+
+
+"Por cima"
+
+  'flavor' Muiryn gosta de assistir a cidade de cima, então construíu um mirante ao topo do castelo, que dá acesso à parte de dentro. Muiryn sai para caçar uma vez por dia. Ninguém fora ele tem acesso ao topo do castelo, que mede pouco menos de 20m de altura, feito em pedra polida e pixe, sendo praticamente impossível escalar.
+
+
+"Verdadeira Forma"
+
+  'Arnie' Humano, fazendeiro, filha e mulher morreram a anos.
+  'Shunt' Texugo comum.
+  'Ysador' Meio-Elfo, abandonado pelos pais a séculos, trabalhava como Ilusionista em um circo que fechou a décadas.
+
+
+Muiryn (ND 14)
+  CA 18
+  PV 184
+  Stats:
+    Deslocamento 12 m, 18 m voo
+    FOR		23 (+6)
+    DES		12 (+1)
+    CON		21 (+5)
+    INT		18 (+4)
+    SAB		15 (+2)
+    CAR		17 (+3)
+  Testes de Resistência Des +6, Con +10, Sab +7, Car +8
+  Imunidade a Dano ácido
+  Idiomas Dracônico, Comum
+  Ataques Múltiplos.
+    O dragão pode usar sua Presença Aterradora, ele pode então, realizar três ataques: um com sua mordida e dois com suas garras.
+  Mordida. Ataque Corpo-a-Corpo com Arma: +11 para atingir, alcance 3 m, um alvo.
+    Acerto: 17 (2d10 + 6) de dano perfurante.
+  Garra. Ataque Corpo-a-Corpo com Arma: +11 para atingir, alcance 1,5 m, um alvo.
+    Acerto: 13 (2d6 + 6) de dano cortante.
+  Cauda. Ataque Corpo-a-Corpo com Arma: +11 para atingir, alcance 4,5 m, um alvo.
+    Acerto: 15 (2d8 + 6) de dano de concussão.
+  Presença Aterradora.
+    Cada criatura, à escolha do dragão, que esteja a até 36 metros do dragão, deve ser bem sucedida num teste de resistência de Sabedoria CD 16 ou ficará amedrontada por 1 minuto. Se o teste de resistência de uma criatura for bem sucedido ou caso o efeito termine sobre ela, a criatura ficará imune a Presença Aterradora do dragão pelas próximas 24 horas.
+  Sopro Ácido. O dragão pode expelir ácido em uma linha com 18 metros de comprimento e 1,5 metro de largura.
+    Cada criatura na linha deve ser bem sucedida num teste de resistência de Destreza CD 18, sofrendo 54 (12d8) de dano de ácido se falhar na resistência, ou metade desse dano caso obtenha sucesso.
+  Sopro Retardante. O dragão expele gás num cone de 18 metros.
+    Cada criatura na área deve ser bem sucedida num teste de resistência de Constituição CD 18. Se falhar na resistência, a criatura não pode realizar reações, seu deslocamento é reduzido à metade e ela não pode realizar mais de um ataque por rodada. Além disso, a criatura pode usar ou um ação ou um ação bônus no turno dela, mas não ambas. Esse efeito dura por 1 minuto.
+  [Resistência Lendária]
+    (3/Dia). Se o dragão falhar em um teste de resistência, ele pode escolher obter sucesso, no lugar.
+  [Ações Lendárias]
+    O dragão pode realizar 3 ações lendárias. Apenas uma ação lendária pode ser usada por vez e apenas no final do turno de outra criatura.
+    O dragão recupera as ações lendárias gastas no começo do turno dele.
+    Detectar.
+      O dragão realiza um teste de Sabedoria (Percepção).
+    Ataque com Cauda.
+      O dragão realiza um ataque de cauda.
+    Ataque com Asas (Custa 2 Ações).
+      O dragão bate suas asas. Cada criatura a até 3 metros do dragão deve ser bem sucedida num teste de resistência de Destreza CD 19 ou sofrerá 13 (2d6 + 6) de dano de concussão e cairá no chão. Após bater suas asas, o dragão pode voar até metade do seu deslocamento de voo.
+
+Maldra (ND 15)
+  CA 19
+  PV 260
+  Stats:
+    Deslocamento 12 m, 18 m voo
+    FOR		27 (+8)
+    DES		14 (+2)
+    CON		28 (+9)
+    INT		15 (+2)
+    SAB		14 (+2)
+    CAR		17 (+3)
+  Testes de Resistência Des +7, Con +14, Sab +7, Car +8
+  Imunidade a Dano ácido
+  Idiomas Dracônico, Comum
+  Ataques Múltiplos.
+    O dragão pode usar sua Presença Aterradora, ele pode então, realizar três ataques: um com sua mordida e dois com suas garras.
+  Mordida. Ataque Corpo-a-Corpo com Arma: +11 para atingir, alcance 3 m, um alvo.
+    Acerto: 22 (3d10 + 6) de dano perfurante.
+  Garra. Ataque Corpo-a-Corpo com Arma: +11 para atingir, alcance 1,5 m, um alvo.
+    Acerto: 16 (3d6 + 6) de dano cortante.
+  Cauda. Ataque Corpo-a-Corpo com Arma: +11 para atingir, alcance 4,5 m, um alvo.
+    Acerto: 19 (3d8 + 6) de dano de concussão.
+  Presença Aterradora.
+    Cada criatura, à escolha do dragão, que esteja a até 36 metros do dragão, deve ser bem sucedida num teste de resistência de Sabedoria CD 16 ou ficará amedrontada por 1 minuto. Se o teste de resistência de uma criatura for bem sucedido ou caso o efeito termine sobre ela, a criatura ficará imune a Presença Aterradora do dragão pelas próximas 24 horas.
+  Sopro Ácido. O dragão pode expelir ácido em uma linha com 18 metros de comprimento e 1,5 metro de largura.
+    Cada criatura na linha deve ser bem sucedida num teste de resistência de Destreza CD 18, sofrendo 63 (14d8) de dano de ácido se falhar na resistência, ou metade desse dano caso obtenha sucesso.
+  Sopro Retardante. O dragão expele gás num cone de 18 metros.
+    Cada criatura na área deve ser bem sucedida num teste de resistência de Constituição CD 18. Se falhar na resistência, a criatura não pode realizar reações, seu deslocamento é reduzido à metade e ela não pode realizar mais de um ataque por rodada. Além disso, a criatura pode usar ou um ação ou um ação bônus no turno dela, mas não ambas. Esse efeito dura por 1 minuto.
+  [Resistência Lendária]
+    (3/Dia). Se o dragão falhar em um teste de resistência, ele pode escolher obter sucesso, no lugar.
+  [Ações Lendárias]
+    O dragão pode realizar 3 ações lendárias. Apenas uma ação lendária pode ser usada por vez e apenas no final do turno de outra criatura.
+    O dragão recupera as ações lendárias gastas no começo do turno dele.
+    Detectar.
+      O dragão realiza um teste de Sabedoria (Percepção).
+    Ataque com Cauda.
+      O dragão realiza um ataque de cauda.
+    Ataque com Asas (Custa 2 Ações).
+      O dragão bate suas asas. Cada criatura a até 3 metros do dragão deve ser bem sucedida num teste de resistência de Destreza CD 19 ou sofrerá 13 (2d6 + 6) de dano de concussão e cairá no chão. Após bater suas asas, o dragão pode voar até metade do seu deslocamento de voo.
+=======
+[Cidade de Foon]
+
+"A cidade"
+
+  'flavor' Uma cidade destruida e abandonada a séculos, sendo gradualmente repovoada.
+  Castelo de tamanho médio ao fundo, próximo a parede do fundo.
+  As construções antigas estão em ruínas chamuscadas ou apodrecidas.
+  As construções novas parecem são simples, mas parecem cheias de vida, meio tortas e desiguais.
+
+"A taverna do Minotauro Escarlate"
+
+  'flavor' Taverna no meio da cidade, como um ponto focal da renovação da cidade. Dois andares, feita de madeira, com diversas janelas.
+  Ao centro da taverna, uma mesa com três criaturas chama atenção.
+  Arnie, humano vindo da Terra através de uma fenda dimensional, gravando um podcast e mandando pela Wi-fi que ainda passa pelo portal.
+  Shunt, rei dos texugos, um texugo falante que diz ser um metamorfo.
+  Yusador,
+    Mago do décimo segundo reino de Athésius, Mestre da Luz e Sombra, Manipulador de Agrados Mágicos, Devorador de Caos
+    Os elfos me conhecem como Fien Yelik
+    Os anões me conhecem como Zoonem Barril-Fundo
+    Conhecido no extremo norte como Gasmoenius Estrela-de-Maio
+
+  'flavor' Os três estão começando o podcast, o *Olá da Taverna Mágica*, e convidam os jogadores a conversar.
+
+    Em meio ao papo non-sense, eles comentam do Dragão de Cobre que protege a cidade, chamado Muiryn.
+    Muiryn mora no castelo em ruínas, que ele vem reconstruíndo por sí mesmo, ou pagando os moradores da cidade para ajudá-lo.
+    A mulher de Muiryn, outra dragão de cobre chamada Maldra, pôs um ovo a alguns meses, e Muiryn está ansioso para ver o bebê, que deve nascer 'a qualquer momento agora'.
+    Maldra viajou para outra cidade, para contar a notícia para os pais, e não deve voltar até o final do mês.
+
+    Existem alguns jeitos de entrar no castelo. Pelas catacumbas abaixo da taverna, pela porta da frente (convidado), ou por cima (voando).
+
+"Catacumbas abaixo da Taverna"
+
+  'flavor' As catacumbas são habitadas por alguns monstros, que trabalham lá. A catacumba é separada em andares, um mais difícil que o último. Nem todos os monstros são maus, alguns só trabalham lá.
+
+
+"Pela porta da frente"
+
+  'flavor' Muiryn sedia uma audiência ao público, toda segunda sexta-feira do mês, na qual você pode pedir, comentar ou critical oque quiser com ele. Felizmente, estamos na segunda quinta-feira do mês, ou seja, a próxima audiência é amanhã.
+
+"Por cima"
+
+  'flavor' Muiryn gosta de assistir a cidade de cima, então construíu um mirante ao topo do castelo, que dá acesso à parte de dentro. Muiryn sai para caçar uma vez por dia. Ninguém fora ele tem acesso ao topo do castelo, que mede pouco menos de 20m de altura, feito em pedra polida e pixe, sendo praticamente impossível escalar.
+
+
+
+"Verdadeira Forma"
+
+  'Arnie' Humano, fazendeiro, filha e mulher morreram a anos.
+  'Shunt' Texugo comum.
+  'Ysador' Meio-Elfo, abandonado pelos pais a séculos, trabalhava como Ilusionista em um circo que fechou a décadas.
+>>>>>>> master

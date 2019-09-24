@@ -1,0 +1,108 @@
+﻿Cap.1 - Arco da Floresta Cinzenta
+ 
+#  Área Clara
+##  (flavor) Entrando na floresta, pouca coisa mágica, um ou outro animal normal.
+
+##  (encontro) Gradualmente mais mágica, encontro com Pixies e Sprites
+- Informação:
+
+- Combate:
+
+- Tesouro:
+
+
+##  (encontro) Clareira com monolito no meio
+- Puzzle: Se encostar no monolito, rola combate
+- Informação: Monolitos nasceram na floresta, origem arcana, com efeito corruptor
+- Combate: Driáde, Infectados
+- Tesouro: 
+
+
+#   Área de Puzzle
+##  (puzzle) Tronco imenso caído, com monolitos dos dois lados, entram por ele
+- Puzzle
+Lost Woods stile, toda curva errada sai 2 entradas pra trás, com inimigos.
+
+Mecânica: 6 salas de corredor, 1 sala de puzzle mecânico.
+
+C:
+	Se orientar pela música. Cada sala que passa, todos os sons ficam mais baixos. Começa CD 8, de 3 em 3 até CD 17. Em CD 20, silêncio absoluto, inclusive dos PCs.
+	Se orientar pela corrente de ar. CD 12
+M: 
+	Três teias de aranha gigante, cada uma com insetos variados, e um besouro colorido (verde, vermelho, azul). Uma espada enferrujada presa numa pedra.
+	Jogadores tem q pega os besouros na ordem certa. CD 15 de percepção pra dica (aranha preparando para o bote). Errou, desce 1 Aranha Gigante, e X _Garra Rastejante_.
+	Acertou os três, elas descem. Se puxar a espada, ela brilha. As aranhas saem correndo.
+
+- Combate:
+
+>Aranha Gigante
+
+>Garra Rastejante
+
+- Tesouro: 
+
+>Besouros de jade
+Verde:
+Vermelha:
+Azul
+
+>Espada Brilhante: 1d6-1 (toda fudida), brilha de leve na presença de magia arcana
+
+##  (encontro) Pixies aliados, falam drúidico e X
+- Puzzle:
+
+>Pedra no chão (CD 18 para remover, 25 para quebrar) / tronco oco (CD 12 de perto) dão acesso a fonte das fadas. 1h nela = Descanso longo. 2h nela, 1o spell não gasta slot.
+
+- Tesouro: 
+
+>Pote of holding. Parece um pote comum, de 350ml. Boca fixa, de 7.5cm de diâmetro. Cabe até 20L dentro. Se erguida acima da cabeça nos primeiros 20s de coletado, o nome do objeto(s) coletado no pote fica escrito do lado de fora do pote, em vermelho.
+
+# Área Escura
+
+##  (flavor) Tronco gigante, descendo, com monolitos fora e nas paredes do tronco.
+
+
+## (encontro) Esqueletos no chão do corredor, levantam a vida
+- Puzzle:
+
+>Teste de Investigação, CD 16, para perceber que eles não estão dispostos de maneira natural
+
+- Combate:
+
+>Esqueletos 
+ou
+>Esqueleto de Minotauro
+
+#  Boss
+
+
+Aliados Prováveis
+Unicornio				-	ND 5	-	Boss
+
+
+Inimigos possíveis
+Centauro				-	ND 2 	-	Clara
+Elfos					-	ND X	-	Clara ou Escura
+Drow					-	ND 1/4	-	Escura
+Espantalho				-	ND 1	-	Clara ou Escura
+Esqueletos				-	ND 1/4	-	Escura
+Ettercap				-	ND 2	-	Escura
+Gnoll					-	ND 1/2	-	Clara
+Gnoll Lider de Matilha	-	ND 2	-	Clara
+Limo Cinzento			-	ND 1/2	-	Puzzle
+Ogro					-	ND 2	-	Boss
+Urso-Coruja				-	ND 3	-	Boss
+
+
+Inimigos prováveis
+Driade			 		- 	ND 1	-	Clara ou Escura
+Pixie					-	ND 1/4	-	Clara
+Sprite					-	ND 1/4	-	Clara
+Esqueleto de Minotauro	-	ND 2	-	Escura
+Esporo de Gás			-	ND 1/2	-	Puzzle
+Garra Rastejante		-	ND 0	-	Puzzle
+Galho Infectados		-	ND 1/8	-	Claro ou Escuro
+Espeto Infectados		-	ND 1/4	-	Clara ou Escuro
+Vinha Infectada			-	ND 1/2	-	Clara ou Escuro
+Minotauro				-	ND 3	-	Boss
+Aranha Gigante			-	ND 1	-	Puzzle

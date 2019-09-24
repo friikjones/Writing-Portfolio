@@ -1,0 +1,120 @@
+Garça (ND 0) - Médio
+  CA 12
+  PV 5
+  Stats:
+    Deslocamento 3m, 18m(voo)
+    FOR		6 (-2)
+    DES		15 (+2)
+    CON		10 (+0)
+    INT		2 (-4)
+    SAB		14 (+2)
+    CAR		7 (-2)
+  Visão Aguçados.
+    A garça tem vantagem em testes de Sabedoria (Percepção) relacionados à visão.
+  Garras. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, um alvo.
+    Acerto: 4 (1d4 + 2) de dano cortante
+
+Chacal (ND 0) - Pequeno
+  CA 12
+  PV 6
+  Stats:
+    Deslocamento 12m
+    FOR		8 (-1)
+    DES		15 (+2)
+    CON		11 (+0)
+    INT		3 (-4)
+    SAB		12 (+1)
+    CAR		6 (-2)
+  Audição e Faro Aguçados.
+    O chacal tem vantagem em testes de Sabedoria (Percepção) relacionados à audição e olfato.
+  Táticas de Matilha.
+    O chacal tem vantagem nas jogadas de ataque contra uma criatura se, pelo menos, um dos aliados do chacal estiver a 1,5 metro da criaturas e não estiver incapacitado.
+  Mordida. Ataque Corpo-a-Corpo com Arma: +1 para atingir alcance 1,5 m, um alvo.
+    Acerto: 1 (1d4 – 1) de dano perfurante.
+
+Touro (ND 1/4) - Grande
+  CA 10
+  PV 22
+  Stats:
+    Deslocamento 12m
+    FOR		16 (+3)
+    DES		8 (-1)
+    CON		14 (+2)
+    INT		2 (-4)
+    SAB		10 (+0)
+    CAR		6 (-2)
+  Investida.
+    Se o Touro se mover pelo menos 6m em uma jogada, e fizer um ataque de chifre no mesmo turno, some 2d6 no dano.
+    Se acertar, o alvo faz um teste de Força CD 13, e se falhar é jogado no chão.
+  Chifre. Ataque Corpo-a-Corpo com Arma: +5 para atingir alcance 1,5 m, um alvo.
+    Acerto: 6 (1d6 + 3) de dano perfurante.
+  Pisão. Ataque Corpo-a-Corpo com Arma: +5 para atingir alcance 1,5 m, um alvo.
+    Acerto: 8 (2d4 + 3) de dano perfurante.
+
+Falcão de Sangue (ND 1/8) - Grande
+  CA 12
+  PV 7
+  Stats:
+    Deslocamento 3m, 18m (voo)
+    FOR		6 (-2)
+    DES		14 (+2)
+    CON		10 (+0)
+    INT		3 (-4)
+    SAB		14 (+2)
+    CAR		5 (-3)
+  Visão Aguçados.
+    A garça tem vantagem em testes de Sabedoria (Percepção) relacionados à visão.
+  Táticas de Matilha.
+    O falcão tem vantagem nas jogadas de ataque contra uma criatura se, pelo menos, um dos aliados do chacal estiver a 1,5 metro da criaturas e não estiver incapacitado.
+  Bicada. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, um alvo.
+    Acerto: 4 (1d4 + 2) de dano perfurante.
+
+Escaravelho (ND 0)
+  CA 13
+  PV 7
+  Stats:
+    Deslocamento 6m, 6m (escalada)
+    FOR		2 (-1)
+    DES		14 (+2)
+    CON		8 (-1)
+    INT		1 (-5)
+    SAB		10 (+0)
+    CAR		2 (-4)
+  Escalada Aracnídea.
+    O escaravelho pode escalar superfícies difíceis, incluindo tetos de cabeça para baixo, sem precisar realizar um teste de habilidade
+  Aparência Exuberante
+    Qualquer criatura inteligente que olhar diretamente para o escaravelho deve passar em um teste de Sabedoria CD 9 ou ficará distraída e perderá o turno.
+    A criatura fica imune ao efeito dessa habilidade pelas próximas 24h.
+  Mordida. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, uma criatura.
+    Acerto: 1 de dano perfurante e o alvo deve ser bem sucedido num teste de resistência de Constituição CD 9 ou sofrerá 2 (1d4) de dano de veneno.
+
+Cobra Constritora (ND 0)
+  CA 12
+  PV 11
+  Stats:
+    Deslocamento 9m, 9m (natação)
+    FOR		15 (+2)
+    DES		14 (+2)
+    CON		12 (+1)
+    INT		1 (-5)
+    SAB		10 (+0)
+    CAR		3 (-4)
+  Mordida. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, uma criatura.
+    Acerto: 5 (1d6 + 2) de dano  perfurante.
+  Constrição. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, uma criatura.
+    Acerto: 6 (1d8 + 2) de dano de concussão e o alvo está agarrado (CD 14 para escapar).
+    Até o agarrão terminar, a criatura estará impedida e a cobra não poderá constringir outro alvo.
+
+Camelo de Batalha
+  CA 10
+  PV 13
+  Stats:
+    Deslocamento 18m
+    FOR		16 (+3)
+    DES		10 (+0)
+    CON		12 (+1)
+    INT		2 (-4)
+    SAB		11 (+0)
+    CAR		7 (-2)
+  Cascos. Ataque Corpo-a-Corpo com Arma: +5 para atingir alcance 1,5 m, um alvo.
+    Acerto: (2d4 + 3) de dano concussão.

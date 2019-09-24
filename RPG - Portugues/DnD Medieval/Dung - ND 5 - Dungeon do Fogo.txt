@@ -1,0 +1,287 @@
+[Dungeon do Fogo]
+
+"Chegando na Montanha Morgothal"
+
+  'flavor' O caminho é longo e arduo, e o terreno não permite uma marcha muito forte.
+    A trilha segue, sempre com a montanha ao fundo, emitindo uma contínua fumaça branca.
+    A trilha diverge, descendo uma colina, ou subindo por uma formação rochosa, e acompanhando a borda de um paredão rochoso.
+
+    'descendo' Um pequeno acampamento Orc em torno de uma pequena nascente é visível ao longe, descendo um morro.
+      O acampamento é composto de 6 tendas, feitas de panos e madeira e ornamentadas de ossos grandes
+      Mais longe é possível ver uma tundra, que se extende até onde os olhos conseguem ver.
+
+    'subindo' A trilha continua em direção à montanha, ao fundo.
+    O terreno em volta da montanha tem vegetação esparça e em grande parte morta. Algumas grandes pedras pontuam o campo aberto.
+
+  "Acampamento Orc" 20 Orcs (CD 10)
+
+    1 Orc Shaman de Sangue (Gratash) (CD 4)
+      CA 12 (couro batido)
+      PV 55 (6d8 + 18)
+      Stats:
+        Deslocamento 9 m
+        FOR		14 (+2)
+        DES		12 (+1)
+        CON		12 (+1)
+        INT		10 (+0)
+        SAB		16 (+3)
+        CAR		12 (+1)
+      Sacrifíco de Gruumsh. Como ação bônus, o shaman pode sacrificar 5 PV para adicionar +2 ao acerto e ao dano da próxima magia usada.
+        Toda vez que usa essa habilidade, o shaman faz um teste de resistência de CON, CD 13. Caso falhe, o próximo sacrifício custará 10 PV.
+      Conjuração. Esta criatura é um conjurador nível 4. Sua habilidade de conjuração é SAB ( CD 13, +5 para acertar)
+        O shaman pode usar as seguintes magias:
+        Truques: Thorn Whip, Produce Flame, Poison Spray
+        1o Nível (4 slots): Charm Person, Entangle, Thunderwave, Fog Cloud
+        2o Nível (3 slots): Barkskin, Flaming Sphere, Spiritual Weapon
+      Bastão. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, um alvo.
+        Acerto: 6 (1d6 +3) de dano contundente, ou 7 (1d8 +3) se usado com duas mãos.
+
+    1 Orc Líder (Rogrom) (CD 2)
+      CA 18 (armadura de placas)
+      PV 42 (5d8 + 20)
+      Stats:
+        Deslocamento 9 m
+        FOR		18 (+4)
+        DES		12 (+1)
+        CON		18 (+4)
+        INT		9 (-1)
+        SAB		11 (+0)
+        CAR		12 (+1)
+      Agressivo. Como ação bônus, o orc pode se mover até metade do seu deslocamento até uma criatura hostil que ele possa ver.
+      Ataques Múltiplos. O orc realiza dois ataques com o machado grande.
+      Machado Grande. Ataque Corpo-a-Corpo com Arma: +6 para atingir, alcance 1,5 m, um alvo.
+        Acerto: 10 (1d12 + 4) de dano cortante.
+      Azagaia. Ataque Corpo-a-Corpo ou à Distância com Arma: +6 para atingir, alcance 1,5 m, distância 9/36 m, um alvo.
+        Acerto: 7 (1d6 +4) de dano perfurante.
+
+    8 Orcs Caçadores (CD 1/2)
+      CA 13 (gibão de peles)
+      PV 15 (2d8 + 6)
+      Stats:
+        Deslocamento 9 m
+        FOR		16 (+3)
+        DES		12 (+1)
+        CON		16 (+3)
+        INT		7 (-2)
+        SAB		11 (+0)
+        CAR		10 (+0)
+      Agressivo. Como ação bônus, o orc pode se mover até metade do seu deslocamento até uma criatura hostil que ele possa ver.
+      Machado Grande. Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo.
+        Acerto: 9 (1d12 + 3) de dano cortante.
+      Azagaia. Ataque Corpo-a-Corpo ou à Distância com Arma: +5 para atingir, alcance 1,5 m, distância 9/36 m, um alvo.
+        Acerto: 6 (1d6 +3) de dano perfurante.
+
+    10 Orcs Aldeões (CD 1/8)
+      CA 11
+      PV 5 (1d8+1)
+      Stats:
+        Deslocamento 9 m
+        FOR		12 (+1)
+        DES		10 (+0)
+        CON		12 (+1)
+        INT		7 (-2)
+        SAB		9 (+0)
+        CAR		10 (+0)
+      Clava. Ataque Corpo-a-Corpo com Arma: +2 para atingir, alcance 1,5 m, um alvo.
+        Acerto: 3 (1d4+1) de dano de concussão
+
+  'flavor' O ancião da Tribo, Gratash, fala comum, e diz que previu a chegada de forasteiros.
+    Diz que a estrela coração do Worg, quando caiu dos céus, caiu dentro da montanha, e trouxe de volta a ira.
+    Se a intenção dos forasteiros é aplacar a ira dos deuses, ele fará um ritual para ajudar. Caçadores saem em seguida.
+
+  'ritual' Uma fogueira imensa, toda a tribo reunida, pinturas de guerra.
+    O shaman joga pós e ervas no fogo, explosões e fumaças coloridas permeiam o ar. (CD 8 de SAB para não se contagiar)
+    Todos entoam um canto coletivo, batem os pés, alguns batem cajados no chão, outros giram no lugar.
+    O shaman sacrifica um mamute jovem, abre e se suja com as viceras. Então, oferece aos forasteiros.
+      Benção de Gruumsh. Role 1d3. Qualquer teste que o jogador falhe pela quantidade que rolar no dado, acertará ao invés, pelos próximos 7 dias.
+    Teste de CON, com falha automática. Jogadores acordam no outro dia.
+    Shaman oferece fazer uma marca de guerra de Gruumsh. Uma tattoo Orc, sem poder mágico. Também avisa de "homens pássaro" na planície.
+
+"Planície" Campo aberto, pontuado por pedras e algumas árvores mortas. Faz calor, e é um tanto úmido, mais que o esperado.
+    Jogadores tomam um susto com um jato de água saindo do chão, e virando vapor em seguida (geysers)
+    Ao longo do caminho, as árvores vão se tornando cada vez menos comuns, e os geysers mais comuns. Alguns soltam água, outros vapor, outros apenas jatos de ar quente.
+
+    'NPC' (CD 12 de percepção) Três pedras arranjadas de uma maneira que não parece natural.
+      Existe uma abertura, que é possível se esqueirar para dentro.
+      É uma caverna artificial, pouco iluminada, com uma pequena descida escavada na pedra, onde mora um kenku ladrão, vestido em um manto folgado vermelho-terra, com uma máscara branca perolada e par de óculos presos à cabeça.
+
+      1 Kenku Ladrão (ND ?) *Sem nome*
+        CA 14
+        PV 40
+        Stats:
+          Deslocamento 9 m
+          FOR		11 (+0)
+          DES		18 (+4)
+          CON		12 (+1)
+          INT		11 (+0)
+          SAB		11 (+0)
+          CAR		10 (+0)
+        Idioma: Comum, Auran
+        Imitar. O kenku pode imitar qualquer som que tenha ouvido, incluindo vozes.
+          Uma criatura que ouça os sons pode dizer que são imitações com um teste de Sabedoria (Intuição) CD 14, bem sucedido.
+        Ataques Múltiplos. O Kenku realiza dois ataques com a adaga.
+        Bomba de Fumaça. Como uma ação, o kenku pode lançar uma bomba de fumaça até 9m de si, criando uma esfera de 1.5m de raio de fumaça.
+          As criaturas dentro da esfera ficam cegas. O Kenku é imune a esse efeito.
+        Adaga. Ataque Corpo-a-Corpo com Arma: +6 para atingir, alcance 1,5 m, um alvo.
+          Acerto: 6 (1d4 +4) de dano perfurante.
+
+    'flavor' O sol bate castiga e não há onde se esconder dele. (desvantagem em testes de baixo para cima)
+      Jogador com maior percepção passiva vê um vulto.
+      Alguns minutos depois, mais vultos. Percepção CD 17 revela que são sombras.
+      Acima deles, sobrevoam estranhos passaros, não dá para ver direito exatamente oque são.
+
+    'combate' 8 Aarakocra, 1 Elemental do Ar (ND 7)
+
+      8 Aarakocra (ND 1/4)
+        CA 12
+        PV 13 (3d8)
+        Stats:
+          Deslocamento 6m / 15 m (voo)
+          FOR		10 (+0)
+          DES		14 (+2)
+          CON		10 (+0)
+          INT		11 (+0)
+          SAB		12 (+1)
+          CAR		11 (+0)
+        Ataque de Mergulho. Se o aarakocra estiver voando e mergulhar, pelo menos 9 metros, em linha reta em direção de um alvo e então atingi-lo com um ataque corpo-a-corpo armado, o ataque causa 3 (1d6) de dano extra ao alvo.
+        Azagaia. Ataque Corpo-a-Corpo com Arma: +4 para atingir, alcance 1,5 m, um alvo.
+          Acerto: 5 (1d6 +2) de dano perfurante.
+        Invocação de Elemental do Ar (3 turnos)
+          Cinco aarakocras a até 9 metros entre si, podem invocar magicamente um elemental do ar.
+          Cada um dos cinco deve usar sua ação e movimento durante três turnos consecutivos para realizar uma dança aérea e devem manter a concentração enquanto o fazem.
+          Quando todos os três tiverem terminado o terceiro turno de dança, o elemental aparecerá até 18 metros deles.
+          Ele é amigável a eles e obedece os comando falados por eles. Ele permanece por 1 hora, até que todos os seus invocadores morram ou até que qualquer de seus invocadores dispense-o com uma ação bônus.
+          Quando o elemental voltar ao Plano Elemental do Ar, qualquer aarakocra a até 1,5 metro dele pode retornar com ele.
+
+      1 Elemental do Ar (ND 5)
+        CA 15
+        PV 90 (12d10 + 24)
+        Stats:
+          Deslocamento 27 m (voo)
+          FOR		14 (+2)
+          DES		20 (+5)
+          CON		14 (+2)
+          INT		6 (-2)
+          SAB		10 (+0)
+          CAR		6 (-2)
+        Resistência a danos elétricos, trovejantes, e físicos não-mágicos
+        Ataques Múltiplos. O elemental realiza dois ataques de pancada.
+        Pancada. Ataque Corpo-a-Corpo com Arma: +8 para atingir, alcance 1,5 m, um alvo.
+          Acerto: 14 (2d8 +5) de dano de concussão.
+        Vendaval (Recarrega 4–6). Cada criatura no espaço do elemental deve realizar um teste de resistência de Força CD 13.
+          Se falhar, um alvo sofre 15 (3d8 + 2) de dano de concussão e é arremessado a até 6 metros do elemental em uma direção aleatória e cai no chão.
+          Se o alvo for arremessado em outra criatura, a criatura deve ser bem sucedida num teste de Destreza CD 13 ou sofrerá a mesma quantidade de dano e cairá no chão.
+          Se o teste de resistência for bem sucedido, o alvo sofre metade do dano de concussão e não é arremessado ou fica caído no chão.
+
+"Ao pé da Montanha" A trilha desemboca no pé da montanha.
+  A face da montanha é toda de pedra vulcânica, irregular (CD 13 de escalada)
+  É possível discernir uma rota de escalada entalhada na pedra, mas nada que ajude a subida. A uns 20 metros de altura, a rota desemboca em um platô.
+
+  'Platô' O platô tem uns 5 metros de largura, e 2 de comprimento, com uma entrada natural da pedra, da qual emana uma luz avermelhada e um calor forte.
+    Olhando dentro da entrada, é possível perceber que, a menos de 5m da boca da entrada, uma parede de lava corre, cobrindo a passagem de cima até embaixo.
+
+  'Acesso superior' acima do platô, a 20m de escalada, existe outra entrada. CD 16 de Percepção
+    A entrada superior da num tunel escavado, de 3m de diâmetro, que desemboca em um buraco no topo de uma sala, a 8m de altura
+
+  'Ninho dos Aarakocra' Uma caverna redonda, de 8 m de diâmetro, onde moravam 8 Aarakocra.
+    Contendo mesas e cadeiras, camas improvisadas, um fogão aberto com uma panela de ensopado ao centro, e 3 baús ao canto.
+    A sala tem um fluxo de ar constante para cima, e após inspeção próxima (CD 12 de investigação, repetível), pode-se perceber diversas saídas de ar externo, escavadas na parte de baixo das paredes, que sai pela parte superior da caverna.
+    As únicas entradas na sala são a saída superior, e uma porta de madeira destrancada.
+
+  'loot' 3 baús, CD 14 para abrir, 17 para arrombar
+    Um baú com 10 gemas valendo 50 po cada (Cornalina, Pedra de sangue)
+    Um baú com uma Corda de Escalada, uma poção de Veneno e uma Azagaia +1
+    Um baú com equipamentos diversos para pássaros, como protetores de peito, máscaras e protetores de canela, total de 9 po
+
+"Corredor interno" O corredor que começa na parede de lava, passa pela porta de entrada do ninho dos Aarokocra, segue mais enfrente.
+  O ar eh quente e parado, e vai ficando cada vez mais quente a medida que os jogadores descem.
+
+* A partir desse ponto, os jogadores tem -1 em testes de CON e WIS, e -2 para testes de atletismo ou percepção, menos quem tem resistência a fogo
+
+  'Entrada do Salão' O corredor acaba em uma porta dupla de ferro fundido, de 2m e pouco de altura.
+    A porta está destrancada, porém a maçaneta é pesada e está muito quente. 1 de dano de fogo para quem enconstar.
+
+"Salão" As portas abrem para um salão retangular de 40m x 25m, com pé direito de 8m
+  A sala tem um tapete imenso de 10m de largura, vermelho brilhante com detalhes em dourado, ladeado por colunas de pedra esculpida até o teto, a cada 5m.
+  Poucos adornos na sala, exceto duas estátuas, duas armaduras pesadas em ferro fundido, e um imenso trono, de 4m de altura, em mármore
+
+  Ao entrar, jogadores ouvem a voz de Farouk, que flutua e crepita como fogo.
+  Ele das as boas vindas, pergunta o que querem, e fala que, para falarem com ele pessoalmente, devem passar um desafio.
+
+  'combate' 1 Elemental do Fogo, e 4 Mephit de Magma (ND 7)
+
+    Elemental de Fogo (ND 5)
+      CA 13
+      PV 102
+      Stats:
+        Deslocamento 15 m
+        FOR		10 (+0)
+        DES		17 (+3)
+        CON		16 (+3)
+        INT		6 (-2)
+        SAB		10 (+0)
+        CAR		7 (-2)
+      Resistência a Dano concussão, cortante e perfurante de ataques não-mágicos
+      Imunidade a Dano fogo, veneno
+      Forma de Fogo. O elemental pode se mover através de um espaço de até 2,5 centímetros de espessura sem se espremer.
+        Uma criatura que toque o elemental ou o atinja com um ataque corpo-a-corpo a até 1,5 metro dele sofre 5 (1d10) de dano de fogo.
+      Susceptibilidade à Água. Para cada 1,5 metro que o elemental se mova na água, ou para cada 4 litros de água jogados nele, ele sofre 1 de dano de frio.
+      Ataques Múltiplos. O elemental realiza dois ataques de toque.
+      Toque. Ataque Corpo-a-Corpo com Arma: +6 para atingir, alcance 1,5 m, um alvo.
+        Acerto: 10 (2d6 + 3) de dano de fogo. Se o alvo for uma criatura ou objeto inflamável, ele se incendeia. Até que uma criatura use uma ação para extinguir o fogo, a criatura sofre 5 (1d10) de dano de fogo no início de cada um dos turnos dela.
+
+    Mephit de Magma (ND 1/2)
+      CA 11
+      PV 22
+      Stats:
+        Deslocamento 9 m, 9 m voo
+        FOR		8 (-1)
+        DES		12 (+1)
+        CON		12 (+1)
+        INT		7 (-2)
+        SAB		10 (+0)
+        CAR		10 (+0)
+      Conjuração Inata (1/Dia). O mephit pode conjurar, inatamente, esquentar metal (CD de resistência 10).
+      Explosão da Morte. Quando o mephit morre, ele explode numa erupção de lava.
+        Cada criatura a até 1,5 metro dele deve realizar um teste de resistência de Destreza CD 11, sofrendo 7 (2d6) de dano de fogo, ou metade desse dano caso obtenha sucesso
+      Sopro Flamejante (Recarrega 6). O mephit expele um cone de 4,5 metro de fogo.
+        Cada criatura na área deve ser bem sucedida num teste de resistência de Destreza CD 11, sofrendo 7 (2d6) de dano de fogo, ou metade desse dano caso obtenha sucesso.
+
+
+
+[BOSS]
+
+Farouk al-Mubin, Efreeti, (ND 11)
+  CA 17
+  PV 200
+  Stats:
+    Deslocamento 12 m, 18 m voo
+    FOR		22 (+6)
+    DES		12 (+1)
+    CON		24 (+7)
+    INT		16 (+3)
+    SAB		15 (+2)
+    CAR		16 (+3)
+  Testes de Resistência Int +7, Sab +6, Car +7
+  Imunidade a Dano fogo
+  Idiomas Ignan, Comum
+  Conjuração Inata. A habilidade de conjuração de um efreeti é Carisma (CD de resistência de magia 15, +7 para atingir comataques de magia).
+    Ele pode conjurar, as seguintes magias:
+    À vontade: detectar magia
+    3/dia cada: aumentar/reduzir, idiomas
+    1/dia cada: conjurar elemental (elemental do fogo apenas), forma gasosa, imagem maior, invisibilidade, muralha de fogo, viagem planar
+  Ataques Múltiplos. O efreeti realiza dois ataques com cimitarra ou usa seu Arremessar Chamas duas vezes.
+  Cimitarra. Ataque Corpo-a-Corpo com Arma: +10 para atingir, alcance 1,5 m, um alvo.
+    Acerto: 13 (2d6 + 6) de dano cortante mais 7 (2d6) de dano de fogo.
+  Arremessar Chamas. Ataque à Distância com Magia: +7 para atingir, distância 36 m, um alvo.
+    Acerto: 17 (5d6) de dano de fogo.
+
+
+Inimigos possíveis
+
+Cão Infernal - ND 3
+Galeb Duhr - ND 6
+Pesadelo - ND 3
+Dragão Vermelho Filhote - ND 4
+  Stat block do Dragão Branco Jovem - ND 6
+Salamandra - ND 5

@@ -1,0 +1,19 @@
+Referencias de Inimigos
+
+# Centauro,
+ND     	              : [2]
+Região                : Planícies
+@ Manual dos Monstros : pg 42
+>Nomades, andam em grupos pequenos ou médio.
+Tribais e levemente organizados
+
+
+# Dríade
+ND                    : [1]
+Região                : Florestas
+@ Manual dos Monstros : pg 120
+>Reclusos, se disfarçam nas ávores
+Fadas que se misturaram a floresta
+
+
+

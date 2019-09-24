@@ -1,0 +1,36 @@
+[Puzzles]
+
+"Logic"
+It's a giant door with a big face on it. Above the door are the words, "The password is monkey" or something like that.
+The door will greet the players when they arrive and converse with them like any NPC.
+The trick here is that the players aren't the ones that have to say the password, the door is. They have to get the door to say it.
+
+"Observation"
+Match the Mirror: The reflection shown in the mirror in this room isn't right.
+There's an extra object, or an object missing (or even an extra person!). The players need to find the missing object, and place it in the right spot in the mirror to pass.
+
+"Logic"
+Byzantine redundancy: 3 talking statues, there is a plaque that says two are telling the truth and one is lying. Simple question, question solution.
+
+"Logic"
+Dungeon where they cannot open a door until the prev door has been closed. They can always destroy the door but if they don't have the right equipment I normally blunt there weapons
+
+"Observation"
+The party enters into a corridor that looks normal but ends in a dead end with a stone wall.
+There is no light in the room. When the party reaches the dead end and turns around there is a brick wall, essentially trapping them inside the corridor.
+The new brick wall has an inscription that reads “Keep your eye on the wall.” If they walk backwards while staring at the brick wall they will walk into the next room.
+
+""
+Porta grossa, é so pedir passagem.
+
+""
+Sacrificio para entrar, seja dinheiro, físico, ou até mental
+
+""
+There is a staircase with an inscription above the archway leading to it. It leads down to pitch-blackness.
+The stairs are endless until they put out all sources of light. Characters with darkvision must close their eyes.
+The endless monotiny of descending stairs takes its toll after a while, and eventually the PCs will have to start making concentration checks to avoid tumbling down the steps and taking superficial bludgeoning damage. Past a few hours, they might start suffering from temporary levels of exhaustion.
+If they turn around, the staircase is endless that way, too.
+
+""
+Porta pintada na parede, jogadores tem que pintar uma chave

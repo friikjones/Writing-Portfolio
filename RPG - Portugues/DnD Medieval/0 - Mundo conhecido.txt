@@ -1,0 +1,66 @@
+[O mundo conhecido]
+
+[Província de Basilius - Centro]
+- Cidade de Féderus
+
+- Floresta Cinzenta
+	- Cidade de Floresta Cinzenta
+		- "Dungeon da Floresta" *On Going*
+	- Montanha do Macaco
+		- Aldeia do Macaco
+
+- Cidade de Campo Longo
+
+- Cidade de Porto Real
+	- Submundo
+	- Aldeia de Stronk
+
+- Castelo da *Organização*
+
+[Terras do Leste]
+- Trilha da Seda
+	- Cidade de Dara
+	- Deserto de Mumbasa
+	- Tribo Nomade Faleh
+
+	- Cidade de Djadin
+		- Posto Avançado Djadin
+
+	- Os cinco marciais
+		- Templo da Garça
+		- Templo do Macaco
+		- Templo da Cobra
+		- Templo do Louva-Deus
+		- Templo do Tigre
+		- Montanha dos Espíritos
+			- "Dungeon do Espirito"
+
+[Terras do Norte]
+- Mar do Norte
+	- Montanha "A Agulha"
+		- Aldeia da Agulha
+		- "Dungeon da Água" *OK*
+
+[Terras do Oeste]
+- Antigo Oeste
+	- Povoado de Santa Aurora
+	- Povoado de Santa Luchita
+		- Clã dos Luchadores
+	- Povoado de São Cristovão
+	- Rio Bravo
+		- Casa do Dr Edward Gothenburg
+			- "Dungeon Mecânica"
+
+- Província de Terra-Mar
+	- Baronato de Brasov
+		- Castelo do Barão Velkan Valerius
+			- "Dungeon Morto-Vivo" *OK*
+	- Cordilheira dos Anjos
+		- Pedreira
+		- Grupo "Os Poderosos Vigilantes"
+
+[Terras do Sul]
+- Montanha da Fênix
+	- "Dungeon do Fogo"
+
+[O Vasto Desconhecido]

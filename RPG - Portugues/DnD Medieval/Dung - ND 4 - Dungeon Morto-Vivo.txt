@@ -1,0 +1,180 @@
+[Dungeon Morto-Vivo]
+
+"Oque sabemos"
+  'local' Anomalia triangulada na cidade.
+    Pessoas tem sumido por semanas, e reaparecido 'diferentes'
+    A posição exata da anomalia é desconhecida, 40% de chance de ser no castelo, 40% da pedreira
+
+"Baronato de Brasov"
+  'local' Cidade de prédios de pedra, rodeado de montanhas, cinzenta e chuvosa (londres gótica)
+    * Ruas justas, serpenteando ao pé de ma colina
+      O mapa leva ao centro da cidade.
+
+  'flavor' Poucas pessoas na rua, maioria cobrindo o rosto com capuz, cachecol ou chapéu.
+    Pessoas olhando por trás das cortinas das janelas, fechando portas quando vocês passam
+
+  'local' Estátua em pedra polida do Barão Valerius na praça central.
+    A rua principal divide em duas
+    * Pedreira na lateral de uma montanha
+    * Castelo do Barão Velkan Valerius no topo da colina, de frente a um despenhadeiro para o mar (cai um raio)
+
+[Cordilheira dos Anjos]
+"Pedreira"
+  'local' Uma pedreira abandonada, razoavel tamanho, com um chalé modesto em cores vibrantes na beirada.
+
+  'flavor' Chalé com as paredes pintadas em cores vibrantes, caindo em decadência, destrancada.
+
+"O Centro de Comando" Tudo tem um ar de guardado por tempo demais
+  'local' A entrada do chalé dá em uma sala de espera, com balcão, com bancos almofadados, como uma pousada.
+    A porta dupla entre-aberta com visor em vidro fumê quebrado. Dá para ver que algo já esteve escrito ali.
+    CD 18 de INT para ler *Os Poderosos Vigilantes*
+
+  'encontro' Sala comum, com sofás e braseiro central, e um raio desenhado na parede inteira.
+    * Dormindo no sofá está o *Azul* - CD 13 Stealth para passar sem acordar.
+
+  'encontro' Sala de treinamento ao fundo, com poste com bracinho Wing-chun style, saco de pancada, armas marciais na parede.
+
+"Os Poderosos Vigilantes" Monges cheios de ânimo, mas sem objetivo ou razão clara. Levemente cansados
+  Vigilante *Vermelho*  - Bartolomeu "Tommy"  -
+  Vigilante *Azul*      - Williamson "Billy"  -
+  Vigilante *Amarelo*   -  ""
+  Vigilante *Rosa*      - Zakira "Kim"        -
+  Vigilante *Preto*     -  ""
+  Vigilante *Verde*     -
+
+
+[Castelo do Barão]
+"Chegando"
+  'local' Colina íngrime, com o castelo no topo da colina, e ao lado, um casarão de madeira pintado em branco.
+
+"Castelo"
+  'local' Portão duplo de 6m de altura por 8m de largura, com porta menor ao centro.
+    * Rodeada por dois guardas, em primeiro momento receosos, mas em seguida super prestativos
+
+"Dentro do castelo"
+  'local' Ambiente pouco espaçoso, porém modesto. Tapeçarias vermelho sangue e iluminação baixa
+    * Barão tem *horário de atendimento ao público*, com fila.
+    * Não vai contar de primeira a fonte do poder. CD 17 de Persuasão, com -3 a cada tentativa.
+
+  'flavor' Luke, capitão da Guarda
+
+
+"Clinica"
+  'local' Casarão novo, pintado em branco, funciona como um hospital.
+    * Comandado por Dr. Lohenztein
+    * Fornece tratamento de graça
+    * Entrada da Dungeon, dentro de uma sala fechada
+
+
+[Dungeon da Morte]
+
+"Entrada"
+  'flavor' Arco de pedra, esculpido com runas (em abyssal) nas bordas que indicam como entrar
+    'puzzle' *A hora mais escura mostra o caminho. Os que já passaram tem passagem livre. O portador abre a portal*
+    Portal de energia roxa. Qualquer coisa que tentar atravessar sofre dano necrótico, e morre instantaneamente.
+    * Às 3h33 da madrugada o portal se dissipa por alguns minutos
+    * Coisas mortas conseguem passar, se cobrir com algo morto funciona
+    * Amuleto dentro de uma gaveta escondida na escrivaninha do Doutor abaixa o portal
+
+  'flavor' Escadaria longa e escura, sem ganchos para tochas, desce vários metros. Cheiro de morte vai crescendo.
+    O corredor tem várias ramificações, todas sem saída. (Fractal)
+    Vários mortos semi-mumificados, esqueletos. Cada um deles tem um pedaço de tomo decadente. Apenas uma runa escrita diversas vezes, "Otôk" (Pare em abyssal)
+
+"Ante-Sala"
+  'encontro' Lívido *1*, Carniçal *4* - ND 3
+
+  Lívido - ND 3
+    CA 13
+		PV 36 (8d8)
+		Stats:
+      Deslocamento 9 m
+			FOR		16 (+3)
+			DES		17 (+3)
+			CON		10 (+0)
+			INT		11 (+0)
+			SAB		10 (+0)
+			CAR		8 (–1)
+    Fedor.
+      Qualquer criatura que comece seu turno a até 1,5 metro do lívido deve ser bem sucedida num teste de resistência de Constituição CD 10 ou ficará envenenada até o início do próximo turno dela. Se obtiver sucesso no teste de resistência, a criatura fica imune ao Fedor do lívido por 24 horas.
+		Mordida. Ataque Corpo-a-Corpo com Arma: +3 para atingir, alcance 1,5 m, um alvo.
+			Acerto: 12 (2d8 + 3) de dano perfurante.
+    Garras. Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo.
+      Acerto: 10 (2d6 + 3) de dano cortante.
+      Se o alvo for uma criatura diferente de um elfo ou morto-vivo, ela deve ser bem sucedida num teste de resistência de Constituição CD 10 ou ficará paralisada por 1 minuto.
+
+  Carniçal - ND 1
+    CA 12
+		PV 22 (5d8)
+		Stats:
+			Deslocamento 9 m
+			FOR		13 (+1)
+			DES		15 (+2)
+			CON		10 (+0)
+			INT		7 (-2)
+			SAB		10 (+0)
+			CAR		6 (–2)
+    Mordida. Ataque Corpo-a-Corpo com Arma: +3 para atingir, alcance 1,5 m, um alvo.
+      Acerto: 12 (2d8 + 3) de dano perfurante.
+    Garras. Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo.
+      Acerto: 10 (2d6 + 3) de dano cortante.
+      Se o alvo for uma criatura diferente de um elfo ou morto-vivo, ela deve ser bem sucedida num teste de resistência de Constituição CD 10 ou ficará paralisada por 1 minuto.
+
+"Câmara de Eco"
+  'flavor' Sala redonda, com um pedestal no meio, sobre ele um livro aberto, escrivo em abyssal.
+    Livro de rituais e passagens bíblicas.
+
+  'encontro' Banshee *1* - ND 4
+    Se gritar na sala, o teste contra o Grito é +3, e o efeito é contra todos. Caso role menos da metade, o jogador fica permanentemente surdo.
+
+    Banshee - ND 4
+    CA 12
+		PV 58 (13d8)
+		Stats:
+			Deslocamento 12 m (voo)
+			FOR		1 (-5)
+			DES		14 (+2)
+			CON		10 (+0)
+			INT		12 (+1)
+			SAB		11 (+0)
+			CAR		17 (+3)
+      Resistência a danos corpo-a-corpo e elementos não-mágicos
+    Movimento Incorpóreo.
+      A banshee pode se mover através de criaturas e objetos como se eles fossem terreno difícil
+    Aspecto Horripilante.
+      Cada criatura não morta-viva a até 18 metros da banshee que puder vê-la, deve ser bem sucedida num teste de resistência de Sabedoria CD 13 ou ficará amedrontada por 1 minuto. Se o alvo for bem sucedido no teste, ou o se o efeito terminar nele, ele fica imune ao Aspecto Horripilante da banshee pelas próximas 24 horas.
+    Grito (1/Dia).
+      A banshee libera um grito lúgubre. Todas as outras criaturas a até 9 metros dela, que puderem ouvi-la, devem realizar um teste de resistência de Constituição CD 13. Se falhar, uma criatura cai a 0 pontos de vida. Se obtiver sucesso, a criatura sofre 10 (3d6) de dano necrótico.
+
+  'flavor' Figuras de roupão preto começam a entrar pela porta ao fundo da sala. Se movem como se deslizassem sobre o chão, com as mãos dentro dos robes a frente do corpo. Antes que se perceba, eles cercam a sala inteira, próximo às paredes.
+
+  'encontro' Cultista/Espectro *X* - ND 1
+
+    Espectro - ND 1
+      CA 12
+  		PV 22 (5d8)
+  		Stats:
+  			Deslocamento 15 m (voo)
+  			FOR		1 (-5)
+  			DES		14 (+2)
+  			CON		10 (+0)
+  			INT		10 (+0)
+  			SAB		10 (+0)
+  			CAR		11 (+0)
+        Resistência a danos corpo-a-corpo e elementos não-mágicos
+      Movimento Incorpóreo.
+        A banshee pode se mover através de criaturas e objetos como se eles fossem terreno difícil
+      Sensibilidade à Luz Solar.
+        Enquanto estiver sob luz solar, o espectro tem desvantagem nas jogadas de ataque, assim como em testes de Sabedoria (Percepção) relacionados a visão
+      Drenar Vida. Ataque Corpo-a-Corpo com Magia: +4 para atingir, alcance 1,5 m, um alvo
+        Acerto: 10 (3d6) de dano necrótico.
+        O alvo deve ser bem sucedido num teste de resistência de Constituição CD 10 ou seu máximo de pontos de vida será reduzido em um valor igual ao dano sofrido. Essa redução dura até o alvo terminar um descanso longo. O alvo morre se esse efeito reduzir seu máximo de pontos de vida a 0.
+
+  'flavor' Um dos cultistas avança alguns metros, e ordena que a Banshee pare.
+    Alguns se destacam das paredes e vão de encontro ao grupo, com uma das mãos levantadas. CD 8, então 10, então 12 contra dormir.
+
+"Câmara de Ritual" (algumas horas depois)
+    'flavor' Sala Redonda, com 6 mesas dispostas em quinas de um círculo de runas
+    Ritualista é o Dr. Lohenztein. "Me ouçam, e os libero"
+    - Trocam a força vital da passagem da alma dos mortos por cura no plano terreno.
+    - Ritualistas são as almas que concordaram em não passar para o outro lado para cuidar dos vivos
+    - Centro da operação deles é uma Gema brilhante preta, que emana poder divino

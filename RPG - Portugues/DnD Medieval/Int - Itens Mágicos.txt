@@ -1,0 +1,146 @@
+[Interlude]
+
+
+
+[Na loja]
+
+* Nariz de Malabares - 300
+  Nariz vermelho de palhaço
+  Enquanto estiver vestindo o nariz, ganha proficiencia em:
+    Performance para malabares com até 4 objetos,
+    Arremesso (se já tiver proficiencia, ganha Expertise)
+
+* Bastão da Reverberação - 150
+  Bastão feito de madeira resistênte, porém bastante elástica, que vibra sob impacto.
+  O alvo de um golpe na cabeça feito por esse bastão tem que passar um teste de CON CD 12,
+  ou será atordoado, sofrendo desvantagem no próximo golpe.
+  Bastão - 1d6 (versátil 1d8)
+
+* Escudo Afiado - 100
+  Escudo pequeno, com as mesmas propriedades de um escudo normal, porém pode ser usado para como arma, causando 1d4 de dano cortante
+
+* Amuleto da Precisão Mecânica - 600
+  Amuleto de cobre, contendo dezenas de pequenas engranagens, alimentado pela energia do plano Mechanus.
+  Quando fizer uma jogada de ataque, o jogador que tiver este amuleto equipado pode escolher tirar 10 ao invés de rolar o dado, até 3 vezes por dia.
+
+* Manual do Saúde Corporal - 1000
+  Manual com dicas de dieta e saúde. Se o jogador gastar 48h em até 6 dias, seu valor de constituição aumenta em 2. O manual então perde sua mágica.
+
+* Moloch, a Espada da Justiça - 1200
+  Uma espada de duas mãos reluzente, com uma cabeça na ponta do cabo. Ao ouvir a palavra "Mau", a espada imediatamenta acorda, grita continuamente "O MAAAAL" enquanto tenta atacar oque lhe parecer mais do mau naquele momento.
+    Espada Longa Extendida - Duas mãos, requer proficiencia
+      1d12+1 cortante + 1d4 contra mortos-vivos, com +1 para ataques.
+
+* Escudo do Surfista - 850
+  Escudo alto, com uma quilha na base. 3 vezes por dia, o jogador pode ficar em pé sobre o escudo, e como uma ação de movimento, se empurrar para frente com um pé. O jogador se move 15m no primeiro turno, e 3 metros menos a cada turno. Subidas dobram a perda de velocidade, descidas aumentam a velocidade.
+  Fazer curvas requer um teste de equilibrio (CD 10 + velocidade/10 + angulo/10).
+  Bater em algo causa 1d6 a cada 6m/turno. Colidir com outra criatura causa metade de dano em cada um.
+  Qualquer ataque feito sobre o Escudo conta como um ataque montado (-4 para atingir).
+
+* Bigode do Vilão - 500
+  Um bigode falso que, quando colocado sobre o lábio superior, se tranforma em um bigode natural, da forma e cor que o usuário preferir. Se raspar o bigode, o bigode falso se reforma.
+  Uma vez por dia, o jogador pode torcer o bigode, e dar uma risada maléfica. Se o fizer, o jogador tem vantagem em testes de carisma, ou a capacidade de contar seu "plano maléfico" a uma criatura, que fica paralisada ouvindo o plano se falhar em um teste de Sabedoria (CD15 + mod CAR)
+  A criatura alvo deve ter um mínimo de 7 de INT, e este efeito não funciona sobre a mesma criatura mais de uma vez.
+
+* Moeda do Tudo ou Nada - 800
+  Uma moeda dourada do tamanho da palma de uma mão. Uma vez por dia, o jogador pode escolher não rolar um dado, mas tirar cara ou coroa. Cara resulta em um sucesso automático, coroa em falha automática.
+
+* Moeda do Eu ou Você - 600
+  Uma moeda prateada do tamanho da palma de uma mão. Uma vez por dia, o jogador pode escolher não rolar um dado, mas tirar cara ou coroa. Cara resulta em um turno extra ao jogador, coroa ele perde o turno.
+
+* Anel do Gramático - 800
+  O usuário do anel pode alterar uma magia usada mudando uma letra da magia somente.
+
+* Martelo do Retorno - 400
+  Um martelo leve de arremesso, que se liga ao jogador quando recebe um nome. Quando dito o nome, o martelo volta para sua mão, causando um ataque contra o que estiver no caminho (máximo de 15m)
+  Martelo - 1d4+1 concussão
+
+* Poção de Cura - Várias
+  50  - PV 2d4 +2
+  100 - PV 4d4 +4
+  150 - PV 8d4 +8
+  200 - PV 16d4 +16
+
+[Vendidos]
+
+* Anel do Ariete - 400 - *VENDIDO* - Morato
+  Anel de Ferro fundido, com uma cabeça de carneiro entalhada.
+  O usuário do anel pode usar uma ação para emitir uma cabeça espectral de carneiro.
+    3 cargas, recupera 1d3 cargas ao amanhecer.
+    O jogador faz um ataque +5 para acertar, causa 2d6 de dano e empurra 1,5m.
+      Range de até 18m.
+      Pode ser usado como um teste de FOR +7 para quebrar coisas.
+
+* Bastão Imóvel - 350 - *VENDIDO* - Morato
+  Bastão liso de ferro, com um botão na extremidade.
+    Quando apertado, o bastão fica imóvel no ar.
+    Limite de 4000 kgs, CD 30 de FOR para movê-lo
+
+* Colar Espelhado do Druida - 250 - *VENDIDO* - Bardela
+  Colar simples de couro trançado, com um camafeu vazio no meio.
+    O usuário pode escolher um animal que consiga ver e escolher uma característica do animal para copiar. (+1 para um atributo, visão no escuro, etc.) Dura 1 minuto.
+    CD 10 de CAR para resistir ao efeito.
+
+* Vambraça dos Três Escudos - 400 - *VENDIDO* - Bardela
+  Placa de Aço com faixas de couro para o ante-braço, com 3 escudos desenhados e runas.
+  Antes de receber o golpe, o jogador pode escolher impor desvantagem sobre o golpe.
+    3 charges, recarrega a cada amanhecer.
+
+* Magia de Bolso - 300 - *VENDIDO* - Tinelli
+  Uma pequena bolsa com cinto, como se fosse uma pochete.
+  Qualquer magia usada diretamente na bolsa fica guardado por até 48h.
+  Quando aberta, a bolsa libera a magia guardada, como se o usuário tivesse conjurado.
+
+* Frasco da Cura - 500 - *VENDIDO* - Tinelli
+  Frasco de cobre, com tampa de cobre presa em arame, e runas no bocal.
+  Enche magicamente de 100ml Poção de Cura. Re-enche a cada amanhecer
+    2 doses, 1DV+1 de Cura cada.
+    Pode tomar duas de uma vez, se quiser.
+
+* Lâmina Recipiente - 450 - *VENDIDO* - Bardela
+  Espada curta simples (1d6), com um espaço oco no meio.
+    A espada absorve qualquer elemento que for exposta, por 1 minuto, ganhando as propriedades do elemento, e até 1d8 de dano extra.
+
+* Capa do Saltimbanco - 800 - *VENDIDO* - Morato
+  Capa vermelha, leve, com leve cheiro de enxofre
+  O jogador que estiver vestindo a capa pode conjurar a magia "porta dimensional" como uma ação, uma vez por dia.
+  O jogador desaparece em uma nuvem de fumaça e aparece em outra.
+  [Porta dimensional]
+    Alcance: 150 metros
+    Você se teleporta de sua localização atual para qualquer outro ponto dentro do alcance da magia. Pode ser um local que você possa ver ou que você possa descrever.
+    Você pode levar com você objetos, desde que eles não excedam o peso que você pode carregar.
+    Se você se teleportar para um ponto já ocupado por uma criatura ou objeto, você e qualquer criatura que esteja se teleportando com você sofre 4d6 de dano de força, e a magia falha em teleportar você.
+
+* Manto da Justaposição - 750 - *VENDIDO* - Tinelli
+  O jogador que estiver vestindo o manto pode, como uma ação, conjurar uma imagem de sí na exata posição que ocupa, uma vez por dia.
+  A ilusão se comporta como a magia Ilusão Programada.
+  Uma criatura pode usar uma ação para observar a imagem, percebendo que se trata de uma ilusão passando em um teste de Investigação, CD 16.
+
+* Cachorro de Onix - 500 - *VENDIDO* - Tinelli
+  Estatueta de ônix de um cachorro, pequena. Pode se tornar um Mastim por 6 horas.
+  O mastim tem inteligência 8(-1) e fala Comum. Ele também tem visão no escuro, e ve objetos invisíveis. Uma vez usado, ele demora 7 dias para poder ser usado novamente.
+
+* Pedra Iônica da Regeneração - 300 - *VENDIDO* - Moratogui
+  Uma pedra preciosa não lapidada, com um leve brilho esverdeado fluindo dentro.
+    CA 24, PV 10, resistência a tudo.
+    Regenera 1 DV a cada hora
+
+
+* Corda de escalada - 300 - *ENCONTRADO*
+  Esta corda de seda de 18 metros de comprimento pesa 1,5 quilo e pode suportar até 1.500 quilos.
+  Se você segurar uma ponta da corda e usar uma ação para falar a palavra de comando, a corda se anima.
+  Com uma ação bônus, você pode comandar a outra ponta a se mover para um destino de sua escolha.
+  Essa ponta se move 3 metros em seu turno, a primeira vez que você a comandar, e 3 metros em cada um dos seus turnos até alcançar o destino, até sua extensão máxima, ou até você manda-la parar.
+  Você também pode mandar a corda se prender firmemente a um objeto ou para se soltar, para se amarrar ou se desamarrar, ou para se enrolar para ser carregada.
+  Se você mandar a corda se amarrar, grandes nós aparecerão em intervalos de 30 centímetros ao longo da corda.
+  Enquanto estiver nodosa, a corda se encurta para 15 metros de comprimento e concede vantagem em testes feitos para escala-la.
+  A corda tem CA 20 e 20 pontos de vida. Ela recupera 1 ponto de vida a cada 5 minutos, contanto que tenha pelo menos 1 ponto de vida.
+  Se a corda cair para 0 pontos devida, ela é destruída.
+
+* Poção de envenenamento - 250 - *ENCONTRADO*
+  Esta mistura parece, cheira e tem o gosto de uma poção de cura ou outra poção benéfica. Porém, na verdade é veneno mascarado por mágica de ilusão.
+  Uma magia identificação revela sua natureza verdadeira.
+  Se bebe-la, você sofrerá 3d6 de dano de veneno e deve ser bem sucedido num teste de resistência de Constituição CD 13 ou ficará envenenado.
+  No começo de cada um dos seus turnos enquanto estiver envenenado dessa forma, você sofre 3d6 de dano de veneno.
+  No final de cada um dos seus turnos, você pode repetir o teste de resistência.
+  Com um sucesso, o dano de veneno que você sofre no seu turno subsequente é reduzido em 1d6. O veneno acaba quando o dano for reduzido a 0.

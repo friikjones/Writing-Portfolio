@@ -1,0 +1,73 @@
+[A Organização]
+
+"Chefe"
+  Oruma Nubul
+  * Humano
+  * Líder da Organização
+
+Sala de situação com projetor magico
+
+"Contenção"
+  Chewie
+  * Meio-Gigante
+  * Guarda-costas pessoal de Oruma, chefe da equipe de Contenção
+
+  "Proteção"
+    Frank Farmer
+    * Humano
+    * Ex-militar
+
+    Rachel Marron
+    * Humana
+    * Especialista em Aikido
+
+  "Correção"
+    Urgul Stronk
+    * Meio-Orc
+    * Barbaro
+
+    Einon Aislinn
+    * Draconato
+    * Monge
+
+"Desenvolvimento"
+  Bernard Nobel
+  * Humano
+  * Cientista, chefe da equipe de Desenvolvimento
+
+  "Suporte"
+    Gendry Mott
+    * Anão
+    * Ferreiro
+
+    Phy Arok
+    * Meio-Elfo
+    * Artesão e Encantador
+
+  "Estratégia"
+    Garry Newman
+    * Humano
+    * Estrategista
+    * "I know a guy"
+
+    John Nash
+    * Meio-Elfo
+    * Matemático
+
+"Inteligência"
+  Charles Padilha
+  * Tiefling
+  * Ladrão, chefe da equipe de Inteligência
+
+  "Busca"
+    Kin Merkel
+    * Humano
+    * Arqueóloga
+
+    "Equipes"
+
+
+  "Apreensão"
+    Thomas Crown
+    * Gnomo
+    * Ilusionista

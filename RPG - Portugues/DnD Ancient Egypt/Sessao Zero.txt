@@ -1,0 +1,40 @@
+[Alvo]
+
+Kahi Set-hathor
+Caçadora e Artesã, conhecida pelos suas criações, que usam partes de monstruosidades do deserto.
+Trabalhava para membros da corte, e sacerdotes do templo de Anúbis, porém está sendo procurada por ter sido julgada culpada no uso de componentes humanos nas suas últimas criações.
+Último trabalho: Montar uma armadura de ossos para um Elefante de guerra, dado de presente para um nobre do reino de Shamash
+
+Aliados conhecidos,
+Sephoris, vendedor de camelos e 'carreto'
+
+Kahi Set-hathor (ND 3)
+  CA 13
+  PV 19 - 14
+  Stats:
+    Deslocamento 9m
+    FOR		11 (+0)
+    DES		16 (+3)
+    CON		9 (-1)
+    INT		15 (+2)
+    SAB		13 (+1)
+    CAR		14 (+2)
+  Matadora de Gigantes.
+    Quando uma criatura Grande ou maior a até 1,5 metro de você atingir ou errar um ataque contra você, você pode usar sua reação para atacar a criatura, imediatamente após o ataque dela, considerando que você possa ver a criatura.
+  Rapieira. Ataque Corpo-a-Corpo com Arma: +5 para atingir, alcance 1,5 m, um alvo.
+    Acerto: 6 (1d8 + 3) de dano cortante
+  Lança. Ataque Corpo-a-Corpo com Arma: +2 para atingir, alcance 1,5 m, um alvo.
+    Acerto: 6 (1d12 + 2) de dano perfurante
+  Magias:
+    Curar Ferimentos
+      A criatura que você toca recupera pontos de vida igual a 1d8 + o modificador de seu atributo para lançar magias.
+      Esta magia não surte efeito em mortos-vivos ou construtos.
+    Detectar Magia
+      Durante a duração da magia, você sente a presença de magia a até 9 metros de você.
+    Névoa Obscurecente
+      Você cria um raio esférico de 6 metros centrado em um ponto dentro do alcance da magia. A esfera se propagada em quinas e sua área é considerada ocultamento total.
+
+[Recompensa]
+
+60 PO
++1 no ranking dos caçadores de Anúbis
