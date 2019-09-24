@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Daniel Jones Portfolio
 
-You can use the [editor on GitHub](https://github.com/friikjones/Writing-Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the git pages repository to show my writing works.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are both portuguese and english writing, mostly around RPG settings and adventures, and the DnD world.
 
-### Markdown
+## RPG - English
+This pieces represent a role-playing game campaing idea in the making.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[P] is what the player would see at first, it is a job posting for adventurers.
 
-```markdown
-Syntax highlighted code block
+[GM] is what the Game Master would see, with the actual dungeon ideas and inhabitants.
 
-# Header 1
-## Header 2
-### Header 3
+## RPG - Portugues
+This pieces are separated in two groups, Medieval and Ancient Egypt. They represent ideas and session notes of two different campaings that happened over skype, in Brazil, in the course of almost a year.
 
-- Bulleted
-- List
+Medieval is a homebrew world, based on regular Dungeons and Dragons, with settings and dungeons custom made for the players.
 
-1. Numbered
-2. List
+Ancient Egypt is a re-skin of regular DnD, but based of Ancient Egypt, with it's own unique lore, gods, political and social classes and regions.
 
-**Bold** and _Italic_ and `Code` text
+### Debate
+This piece was a submission for a "200 words" themed contest for a role-playing game.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/friikjones/Writing-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Bonus points were awarded for no setup and the least amount of objects used.
